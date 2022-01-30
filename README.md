@@ -2,9 +2,4 @@
 frontend developer from japan.  
 I like JavaScript, Vim and HHKB👨‍💻
 
-<a href="https://github.com/Yuki-Sakaguchi">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuki-Sakaguchi&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/Yuki-Sakaguchi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-Sakaguchi" />
-</a>
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Yuki-Sakaguchi&hide=contribs&count_private=true&show_icons=true)](https://github.com/Yuki-Sakaguchi/) [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-Sakaguchi&layout=compact)](https://github.com/Yuki-Sakaguchi/)
