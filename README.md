@@ -14,6 +14,7 @@ const yu = {
   favorites: {
     code: ["typescript", "react", "firebase"],
     tools: ["vim", "HHKB"],
+    art: ["pixel art", "low poly"],
   },
   challenge: "I'm studying Flutter."
 };
