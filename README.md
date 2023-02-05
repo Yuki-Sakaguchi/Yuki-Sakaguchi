@@ -6,11 +6,17 @@
 </div>
 
 # <img src="https://user-images.githubusercontent.com/16290220/216816339-2f0805ea-2880-48d8-bb60-dc68285319fe.gif" width="40" style="vertical-align: bottom;" /> about me
-frontend developer from japan.  
-I like JavaScript, Vim and HHKB👨‍💻
 
 ```javascript
-const yu = {}
+const yu = {
+  from: "japan",
+  job: ["frontend developer", "manager"],
+  favorites: {
+    coding: ["typescript", "react", "firebase"],
+    tools: ["vim", "HHKB"],
+  },
+  challenge: "I'm studying Flutter."
+};
 ```
 
 # <img src="https://user-images.githubusercontent.com/16290220/216816264-5da31030-29d1-4753-a966-76d1133b03f8.gif" width="40" style="vertical-align: bottom;" /> my skills
