@@ -12,7 +12,7 @@ const yu = {
   from: "japan",
   job: ["frontend developer", "manager"],
   favorites: {
-    coding: ["typescript", "react", "firebase"],
+    code: ["typescript", "react", "firebase"],
     tools: ["vim", "HHKB"],
   },
   challenge: "I'm studying Flutter."
@@ -33,4 +33,4 @@ const yu = {
 
 # <img src="https://user-images.githubusercontent.com/16290220/216816267-f562f480-8cb0-4763-9c88-3d7088f23e37.gif" width="40" style="vertical-align: bottom;" /> Status
 
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Yuki-Sakaguchi&hide=contribs&count_private=true&show_icons=true)](https://github.com/Yuki-Sakaguchi/) [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-Sakaguchi&layout=compact)](https://github.com/Yuki-Sakaguchi/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Yuki-Sakaguchi&theme=default&hide=contribs&count_private=true&show_icons=true&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676)](https://github.com/Yuki-Sakaguchi/) [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-Sakaguchi&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=000&hide=Logos,html,css,asp,objective-c,c,c++)](https://github.com/Yuki-Sakaguchi/)
