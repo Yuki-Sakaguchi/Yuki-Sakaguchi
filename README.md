@@ -1,8 +1,8 @@
 <div align="center">
   <p>
-    <strong>＼ Hi, I'm Yu 🫧／</strong>
+    <strong>＼ Hi, I'm Yu 🚀／</strong>
   </p>
-  <image width="200" src="https://user-images.githubusercontent.com/16290220/216816069-8211b320-bb87-4103-ab70-46b719b9aeb4.gif" />
+  <image width="200" src="https://user-images.githubusercontent.com/16290220/220354949-cb9535a6-48f0-4395-9938-fb60a57ef1a1.gif" />
 </div>
 
 # <img src="https://user-images.githubusercontent.com/16290220/216816339-2f0805ea-2880-48d8-bb60-dc68285319fe.gif" width="40" style="vertical-align: bottom;" /> About me
