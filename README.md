@@ -26,7 +26,7 @@ const yu = {
 [![My Skills](https://skillicons.dev/icons?theme=light&i=html,css,js,ts,jquery,react,nextjs,vue,nuxtjs,threejs,tailwind,vite,webpack,gulp,flutter)](https://skillicons.dev)
 
 ## Backend
-[![My Skills](https://skillicons.dev/icons?theme=light&i=nodejs,php,java,firebase,gcp,graphql,apollo,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=light&i=nodejs,php,java,firebase,supabase,gcp,graphql,apollo,docker)](https://skillicons.dev)
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?theme=light&i=vscode,vim,neovim)](https://skillicons.dev)
