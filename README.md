@@ -2,7 +2,7 @@
   <p>
     <strong>＼ Hi, I'm Yu 🚀／</strong>
   </p>
-  <image width="200" src="https://user-images.githubusercontent.com/16290220/220354949-cb9535a6-48f0-4395-9938-fb60a57ef1a1.gif" />
+  <image width="250" src="https://user-images.githubusercontent.com/16290220/223340575-51df39bb-9161-4076-9b17-6107e1408f4f.gif" />
 </div>
 
 # <img src="https://user-images.githubusercontent.com/16290220/216816339-2f0805ea-2880-48d8-bb60-dc68285319fe.gif" width="40" style="vertical-align: bottom;" /> About me
