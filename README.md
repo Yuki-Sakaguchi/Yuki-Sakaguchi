@@ -16,7 +16,7 @@ const yu = {
     tools: ["vim", "HHKB"],
     art: ["pixel art", "low poly"],
   },
-  challenge: "I'm studying Flutter."
+  challenge: "I'm studying Flutter and GraphQL."
 };
 ```
 
