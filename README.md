@@ -12,11 +12,11 @@ const yu = {
   from: "japan",
   job: ["frontend developer", "manager"],
   favorites: {
-    code: ["typescript", "react", "firebase"],
+    code: ["typescript", "react", "firebase", "GraphQL"],
     tools: ["vim", "HHKB"],
     art: ["pixel art", "low poly"],
   },
-  challenge: "I'm studying Rust and GraphQL."
+  challenge: "I'm studying Rust and Kotlin."
 };
 ```
 
