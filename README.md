@@ -5,7 +5,7 @@
   <image width="100" src="https://user-images.githubusercontent.com/16290220/232821951-fd607f5b-2fc8-409d-a961-d6a6d958eb9e.gif" />
 </div>
 
-# <img src="https://user-images.githubusercontent.com/16290220/232822554-75b49232-e2fa-4a1c-b561-3caff7fa3ed0.png" width="32" style="vertical-align: bottom; position: relative; top: -2px;" /> About me
+# <img src="https://user-images.githubusercontent.com/16290220/232822554-75b49232-e2fa-4a1c-b561-3caff7fa3ed0.png" width="28" /> About me
 
 ```javascript
 const yu = {
@@ -21,7 +21,7 @@ const yu = {
 ```
 
 
-# <img src="https://user-images.githubusercontent.com/16290220/232822554-75b49232-e2fa-4a1c-b561-3caff7fa3ed0.png" width="32" style="vertical-align: bottom; position: relative; top: -2px;" /> My skills
+# <img src="https://user-images.githubusercontent.com/16290220/232822554-75b49232-e2fa-4a1c-b561-3caff7fa3ed0.png" width="28" /> My skills
 
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?theme=light&i=html,css,js,ts,jquery,react,nextjs,vue,nuxtjs,threejs,tailwind,vite,webpack,gulp,flutter)](https://skillicons.dev)
@@ -33,7 +33,9 @@ const yu = {
 [![My Skills](https://skillicons.dev/icons?theme=light&i=vscode,vim,neovim)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?theme=light&i=xd,photoshop,pr,figma,blender,unity)](https://skillicons.dev)
 
-# <img src="https://user-images.githubusercontent.com/16290220/232822554-75b49232-e2fa-4a1c-b561-3caff7fa3ed0.png" width="32" style="vertical-align: bottom; position: relative; top: -2px;" /> Project
+
+
+# <img src="https://user-images.githubusercontent.com/16290220/232822554-75b49232-e2fa-4a1c-b561-3caff7fa3ed0.png" width="28" /> Project
 
 | description  | images |
 | ------------- | :-------------: |
