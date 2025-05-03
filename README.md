@@ -39,4 +39,4 @@ const yu = {
 
 | description  | images |
 | ------------- | :-------------: |
-| **Tree Idea Maker** <br>An app for thinking up ideas for directory structures<br><br>You can copy the directory structure you created in tree format.<br>You can also import from tree format and reflect the directory structure of your local workspace. | <a href="https://tree-idea-maker.vercel.app/"><img src="https://github.com/user-attachments/assets/c5af5536-efff-4217-bc3d-e502a3399bce" width="500px" /><br>https://tree-idea-maker.vercel.app/</a> |
+| **Tree Idea Maker** <br>An app for thinking up ideas for directory structures.<br><br>You can copy the directory structure you created in tree format.<br>You can also import from tree format and reflect the directory structure of your local workspace. | <a href="https://tree-idea-maker.vercel.app/"><img src="https://github.com/user-attachments/assets/c5af5536-efff-4217-bc3d-e502a3399bce" width="500px" /><br>https://tree-idea-maker.vercel.app/</a> |
