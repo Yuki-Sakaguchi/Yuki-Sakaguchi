@@ -35,7 +35,7 @@ const yu = {
 
 
 
-# <img src="https://user-images.githubusercontent.com/16290220/232822554-75b49232-e2fa-4a1c-b561-3caff7fa3ed0.png" width="28" /> Project
+# <img src="https://user-images.githubusercontent.com/16290220/232822554-75b49232-e2fa-4a1c-b561-3caff7fa3ed0.png" width="28" /> Projects
 
 | description  | images |
 | ------------- | :-------------: |
