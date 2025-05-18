@@ -16,7 +16,7 @@ const yu = {
     tools: ["vim", "HHKB"],
     art: ["pixel art", "low poly"],
   },
-  challenge: "I'm studying Rust and Kotlin."
+  challenge: "I'm studying Rust."
 };
 ```
 
