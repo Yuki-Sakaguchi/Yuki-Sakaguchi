@@ -12,7 +12,7 @@ const yu = {
   from: "japan",
   job: ["frontend developer", "manager"],
   favorites: {
-    code: ["typescript", "react", "Supabase"],
+    code: ["typescript", "react", "Supabase", "Claude Code"],
     tools: ["vim", "HHKB"],
     art: ["pixel art", "low poly"],
   },
