@@ -2,7 +2,12 @@
   <p>
     <strong>＼ Hi, I'm Yu 🌈／</strong>
   </p>
-  <image width="306" src="https://github.com/user-attachments/assets/d147c810-e7ac-4d5f-85cd-b4b3a3fd75e7" />
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/98982d4e-0033-4c13-8f9a-12fb401184a4">
+      <img src="https://github.com/user-attachments/assets/d147c810-e7ac-4d5f-85cd-b4b3a3fd75e7" width="306" alt="Yu">
+    </picture>
+  </p>
 </div>
 
 
