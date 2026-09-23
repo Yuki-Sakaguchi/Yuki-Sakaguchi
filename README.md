@@ -4,12 +4,11 @@
   </p>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/98982d4e-0033-4c13-8f9a-12fb401184a4">
-      <img src="https://github.com/user-attachments/assets/d147c810-e7ac-4d5f-85cd-b4b3a3fd75e7" width="306" alt="Yu">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f58060b9-0427-4175-a58c-bf14482060f7">
+      <img src="https://github.com/user-attachments/assets/79b9c4df-eca7-49bd-84c4-0b0be13fbb80" width="306" alt="Yu">
     </picture>
   </p>
 </div>
-
 
 # <img src="https://user-images.githubusercontent.com/16290220/232822554-75b49232-e2fa-4a1c-b561-3caff7fa3ed0.png" width="28" /> About me
 
