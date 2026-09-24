@@ -4,8 +4,8 @@
   </p>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f58060b9-0427-4175-a58c-bf14482060f7">
-      <img src="https://github.com/user-attachments/assets/79b9c4df-eca7-49bd-84c4-0b0be13fbb80" width="306" alt="Yu">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/08a52902-df53-447a-8135-d134153ff865">
+      <img src="https://github.com/user-attachments/assets/b0d9ebed-ebb7-4eff-a932-f675d32fe2bc" width="306" alt="Yu">
     </picture>
   </p>
 </div>
